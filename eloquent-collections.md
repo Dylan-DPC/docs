@@ -91,6 +91,7 @@ All Eloquent collections extend the base [Laravel collection](/docs/{{version}}/
 [nth](/docs/{{version}}/collections#method-nth)
 [only](/docs/{{version}}/collections#method-only)
 [partition](/docs/{{version}}/collections#method-partition)
+[pad](/docs/{{version}}/collections#method-pad)
 [pipe](/docs/{{version}}/collections#method-pipe)
 [pluck](/docs/{{version}}/collections#method-pluck)
 [pop](/docs/{{version}}/collections#method-pop)
